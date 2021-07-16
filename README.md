@@ -15,4 +15,7 @@ During this course an application was build to view and track movies, series and
 #### Author
 
 Ruben Cortez
+#### Gratitude
+
+Thanks platzi for de course and accenture for the opportunity
 
