@@ -3,7 +3,7 @@ The purpose of this couse is to learn Java advance
 
 ## Description
 
-During this course an application was build to view and track movies, series and books
+During this course an application was build to view and track movies, series and books, also use IntelliJ IDE to create practice and modify the program.
 
 ### GETTING STARTED
 
